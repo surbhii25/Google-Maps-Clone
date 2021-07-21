@@ -1,8 +1,10 @@
 # Google Maps Clone
 
-Google Maps is a web mapping platform and consumer application offered by Google.
-In this project, I tried to make a Clone of Google Maps using Mapbox.
+View deployed project here: https://surbhii25.github.io/Google-Maps-Clone/
 
+Google Maps is a web mapping platform and consumer application offered by Google.
+
+In this project, I tried to make a Clone of Google Maps by using Mapbox.
 Mapbox is an incredibly powerful tool for creating any map based applications.
 
 Concepts Learned while making this project:
